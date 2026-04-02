@@ -1,0 +1,20 @@
+<additional>
+    <!-- Passenger Cars -->
+    <vType id="passenger1" vClass="passenger" accel="2.6" decel="4.5" sigma="0.5" length="5.0" minGap="2.5" maxSpeed="33.3" guiShape="passenger" color="yellow"/>
+    <vType id="passenger2" vClass="passenger" accel="2.8" decel="4.5" sigma="0.4" length="4.8" minGap="2.5" maxSpeed="40.0" guiShape="passenger" color="blue"/>
+    <vType id="passenger3" vClass="passenger" accel="2.5" decel="4.0" sigma="0.6" length="5.2" minGap="3.0" maxSpeed="30.0" guiShape="passenger" color="white"/>
+    
+    <!-- Trucks -->
+    <vType id="truck1" vClass="truck" accel="1.2" decel="2.5" sigma="0.8" length="15.0" minGap="4.0" maxSpeed="22.2" guiShape="truck" color="red"/>
+    <vType id="truck2" vClass="truck" accel="0.8" decel="2.0" sigma="0.9" length="18.0" minGap="5.0" maxSpeed="19.4" guiShape="truck/trailer" color="0.5,0.5,0.5"/>
+    
+    <!-- Buses -->
+    <vType id="bus1" vClass="bus" accel="1.5" decel="3.0" sigma="0.5" length="12.0" minGap="3.0" maxSpeed="16.6" guiShape="bus" color="0,1,0"/>
+    <vType id="bus2" vClass="bus" accel="1.4" decel="2.8" sigma="0.6" length="10.0" minGap="2.5" maxSpeed="18.0" guiShape="bus" color="orange"/>
+    
+    <!-- Motorcycles -->
+    <vType id="moto1" vClass="motorcycle" accel="5.0" decel="6.0" sigma="0.3" length="2.0" minGap="1.0" maxSpeed="45.0" guiShape="motorcycle" color="magenta"/>
+    
+    <!-- Delivery Vans -->
+    <vType id="delivery" vClass="delivery" accel="2.2" decel="4.0" sigma="0.5" length="6.5" minGap="3.0" maxSpeed="25.0" guiShape="delivery" color="cyan"/>
+</additional>

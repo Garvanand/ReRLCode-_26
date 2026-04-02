@@ -1,0 +1,20 @@
+# Logs and Plots
+logs/
+plots/*.png
+evaluation/*.csv
+
+# Model Checkpoints
+models/*.pth
+
+# SUMO temporary files
+environment/*.net.xml
+environment/*.rou.xml
+environment/*.sumocfg
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/

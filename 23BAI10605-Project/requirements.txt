@@ -1,0 +1,10 @@
+torch
+numpy
+pandas
+matplotlib
+tensorboard
+streamlit
+traci
+sumolib
+pyyaml
+gymnasium

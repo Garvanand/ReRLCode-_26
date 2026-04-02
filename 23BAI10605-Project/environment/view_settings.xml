@@ -1,0 +1,10 @@
+<viewsettings>
+    <scheme name="real world">
+        <opengl dither="true" antialiase="true" draw_junction_shape="true" draw_crossings_and_sidewalks="true"/>
+        <edges laneWidth="true" showLaneDirection="true" showLaneColorer="occupancy"/>
+        <vehicles showBlinker="true" minSize="1.5" showVehicleColorer="vType"/>
+        <junctions drawJunctionShape="true" showJunctionColorer="tlsStatus"/>
+    </scheme>
+    <viewport x="1000" y="1000" zoom="100"/>
+    <delay value="100"/>
+</viewsettings>

@@ -1,0 +1,10 @@
+{
+  "projectId": "d42ead79-5ac7-44d7-a06b-ddc8841fe0c5",
+  "createdAt": 1772123131121,
+  "version": "1.0",
+  "templateId": "any",
+  "startupCommands": [
+    "pip install -r requirements.txt",
+    "streamlit run dashboard/streamlit_app.py"
+  ]
+}
